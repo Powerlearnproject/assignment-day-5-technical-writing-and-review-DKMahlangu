@@ -49,7 +49,7 @@ In a study on teaching computer science concepts to novices, researchers used a 
 
 ## Consistency in Documentation
 ### Why is consistency in terms and style important in technical writing, and how can inconsistencies impact the reader's experience?
-####Importance of Consistency
+#### Importance of Consistency
 **Consistency in technical writing is vital for several reasons:**
   - **Clarity and Precision:** Using consistent terms and style eliminates ambiguity and confusion.
   - **Readability and Comprehensibility:** Familiarizing readers with standardized language makes it easier for them to follow complex concepts and instructions.
